@@ -1,0 +1,18 @@
+{
+  "name": "sales-dashboard",
+  "version": "1.0.0",
+  "description": "A challenge for sales analysis dashboard",
+  "main": "index.js",
+  "repository": "https://github.com/kcblaq/sales-analytical-dashboard.git",
+  "author": "kcblaq <ugwu.kelechi@decagon.dev>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "react-icons": "^4.2.0"
+  }
+}

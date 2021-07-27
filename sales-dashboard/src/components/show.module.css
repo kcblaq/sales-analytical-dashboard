@@ -1,0 +1,27 @@
+.main {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 95vw;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 10px;
+}
+.left {
+  border-right: 4px solid #ebf1f6;
+  padding: 5px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 50%;
+  border-right: 4px solid #ebf1f6;
+}
+.right {
+  flex-basis: 30%;
+}
+.blue {
+  color: #357ae3;
+ 
+}
