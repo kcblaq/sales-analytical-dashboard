@@ -1,0 +1,188 @@
+.right {
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.topIcons {
+  display: flex;
+  justify-content: space-around;
+}
+.circleIcon {
+  border: 2px solid #f6fafe;
+  padding: 15px;
+  border-radius: 50%;
+}
+.secondLayer {
+  display: flex;
+  justify-content: center;
+}
+.imageHolder {
+  height: 9rem;
+  width: 7rem;
+  display: flex;
+}
+.img {
+  width: 100%;
+  border-radius: 50%;
+  margin-top: 2rem;
+}
+.box {
+  /* width: 100%; */
+  height: 3rem;
+  border: 4px solid #f6fafe;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.box2 {
+  /* width: 100%; */
+  height: 3rem;
+  border: 4px solid #f6fafe;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-top: 10px;
+  align-items: center;
+}
+.box3 {
+
+  height: 10.5rem;
+  border: 4px solid #f6fafe;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  font-size:18px;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 50%;
+}
+.fest {
+  display: flex;
+  justify-content: space-between;
+}
+.bag {
+  height: 80%;
+  background-color: #f6fafe;
+  border-radius: 5px;
+  float: left;
+  font-size: 30px;
+  /* margin: 5 15 5 10; */
+  align-items: center;
+}
+.names {
+  display: flex;
+  width: 100%;
+  gap: 40px;
+}
+.reputationBox {
+  width: 100%;
+  height: 3rem;
+  border: 4px solid #f6fafe;
+  display: flex;
+}
+.progressbar {
+  width: 100%;
+  margin-left: 10px;
+}
+.left {
+  float: left;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.gift {
+  height: 80%;
+  background-color: #fdf2ee;
+  border-radius: 5px;
+  float: left;
+  font-size: 30px;
+  color: #ef8642;
+}
+.recentOrders {
+  width: 100%;
+  height: 9rem;
+  border: 4px solid #f6fafe;
+  border-radius: 5px;
+  padding: 5px;
+}
+.order {
+  display: flex;
+  justify-content: space-around;
+}
+/* .right {
+  float: right;
+  font-weight: bold;
+  margin-top: 15px;
+} */
+.spantwo {
+  display: flex;
+  justify-content: space-evenly;
+}
+.blue {
+  color: blue;
+}
+.firstRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.pix {
+  width: 20%;
+  margin: 0;
+}
+.green {
+  color: green;
+  font-size: 18px;
+}
+.rowy {
+  display: flex;
+  justify-content: space-between;
+  align-content: stretch;
+}
+.detail {
+  display: grid;
+}
+.number {
+  font-weight: bold;
+  font-size: 14px;
+}
+.products {
+  font-size: 12px;
+  color: gray;
+}
+.line {
+  border-left: 6px solid #f6fafe;
+  height: 100%;
+}
+.bg {
+  width: 100%;
+  background-color: gray;
+  padding: 0;
+  height: 1rem;
+}
+.contain {
+  padding: 0;
+  height: 1rem;
+}
+.flexy{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+
+}
+.inn{
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  font-weight: bold;
+}
+.faint{
+  color: gray;
+}
+

@@ -1,0 +1,46 @@
+.left {
+  padding: 5px;
+  /* position: sticky;
+  top: 0; */
+}
+.blue {
+  color: #357ae3;
+}
+.inner {
+  margin: 10px;
+  text-align: left;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(140, 140, 212);
+  margin-top: 200px;
+}
+.top {
+  display: flex;
+  justify-content: space-evenly;
+  justify-content: flex-start;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 40%;
+}
+.items a,
+.items2 a {
+  text-decoration: none;
+  color: grey;
+}
+.items .blueLink {
+  color: #357ae3;
+}
+.items2 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.tiny {
+  font-size: 10px;
+}

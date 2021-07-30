@@ -1,0 +1,121 @@
+.searchBox {
+  background-color: #f6fafe;
+  height: 3rem;
+  width: 80%;
+  border-radius: 30px;
+  border: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.icon {
+  margin: 1rem;
+}
+.input {
+  border: none;
+  width: 90%;
+  height: 60%;
+  background-color: #f6fafe;
+  outline: none;
+}
+.leftWidget {
+  text-align: left;
+  padding: 15px;
+}
+.cards {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  height: 5rem;
+  width: 8rem;
+  border: 2px solid #f6fafe;
+  border-radius: 5px;
+}
+.bag {
+  color: #ee7d3d;
+}
+.pie {
+  color: #9b54e2;
+}
+.people {
+  color: #56b190;
+}
+.cart {
+  color: #e94043;
+}
+.total {
+  color: #7e8cb3;
+  font-size: 13px;
+}
+.money {
+  color: #273a6d;
+  font-size: 14px;
+  font-weight: bold;
+}
+.leftCard {
+  display: grid;
+  justify-content: space-between;
+}
+.rightCard {
+  color: #56b190;
+  font-size: 13px;
+  font-weight: bold;
+}
+.rightCard2 {
+  color: #e94969;
+  font-size: 13px;
+  font-weight: bold;
+}
+.cardHolder {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 5px;
+  padding: 0;
+}
+.chartHolder {
+  border: 3px solid #f6fafe;
+  height: 17rem;
+  /* width: 100%; */
+  margin-top: 10px;
+  border-radius: 5px;
+  overflow: scroll;
+}
+.popularProducts {
+  border: 3px solid #f6fafe;
+  height: 25%;
+  /* width: 90%; */
+  margin-top: 10px;
+  border-radius: 5px;
+  display: grid;
+  padding: 10px;
+}
+
+.first{
+  display: flex;
+  justify-content: space-between;
+  background-color:#F6FAFE;
+  align-items: center;
+
+}
+.second{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.grayBackground{
+  background-color:#F6FAFE;
+}
+.bold{
+  font-weight: bold;
+}
+.faint{
+  color: #929EBE;
+}
+.green{
+  color: green;
+  font-weight: bold;
+}
